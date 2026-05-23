@@ -102,6 +102,10 @@ Various resources, such as books, websites and articles.
 - Flink Forward San Francisco 2017 - [Slides and Videos](https://github.com/flink-china/flink-forward-sf-2017)
 - Flink Forward Berlín 2017 - [Slides](https://github.com/397090770/FlinkForward201709)
 
+## IDE
+- [Lakehouse Platform](https://github.com/nuyoah666/lakehouse-platform) - Web IDE for Apache Flink + Paimon + Doris real-time lakehouse, Windows native deployment
+
+
 ## Slides
 
 ### 2017
